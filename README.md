@@ -100,3 +100,4 @@ Or, to avoid using matplotlib, add the following to `~/.zprofile`:
 # Avoids seaborn hang on my old macbook pro
 export MPLBACKEND=qtagg
 ```
+# intro
