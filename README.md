@@ -101,3 +101,4 @@ Or, to avoid using matplotlib, add the following to `~/.zprofile`:
 export MPLBACKEND=qtagg
 ```
 # intro
+# intro
